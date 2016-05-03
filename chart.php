@@ -1,3 +1,15 @@
+<?php
+/**
+ * twitter-chart-demo : Just a demo of using twitter search api with php and Twitter-API-PHP
+ * 
+ * PHP version 5.5.32
+ * 
+ * @author   Konstantinos Togias <info@ktogias.gr>
+ * @license  MIT License
+ * @version  1.0.0
+ * @link     https://github.com/ktogias/twitter-chart-demo
+ */
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
